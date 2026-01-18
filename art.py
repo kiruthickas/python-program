@@ -1,0 +1,6 @@
+a,b= map(int,input("enter number").split())
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
